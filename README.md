@@ -6,7 +6,7 @@ A collection of various AI/ML architectures, models, and tips for Scikit-Learn,T
 
 ## Traditional Machine Learning
 
-- Logistic Regression [[TensorFlow 1](tensorflow1_ipynb/basic-ml/logistic-regression.ipynb)] [[PyTorch](pytorch_ipynb/basic-ml/logistic-regression.ipynb)]
+- Logistic Regression [[TensorFlow 1](https://www.youtube.com/watch?v=ftY1tlfq8mc)] [[PyTorch](https://www.youtube.com/watch?v=ECHX1s0Kk-o)]
 - Softmax Regression (Multinomial Logistic Regression) [[TensorFlow 1](tensorflow1_ipynb/basic-ml/softmax-regression.ipynb)] [[PyTorch](pytorch_ipynb/basic-ml/softmax-regression.ipynb)]
 
 ## Natural Language Processing
